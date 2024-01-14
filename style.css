@@ -1,5 +1,6 @@
 p {
   color: yellow;
   background-color: black;
-  border: block;
+  border: 2px solid yellow ;
+  align-items: center;
 }
